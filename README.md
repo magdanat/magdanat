@@ -1,6 +1,6 @@
 
 <p align="center">
-    Hey, welcome to my Github! 😊
+    Hey, welcome to my Github! 🙂
 </p>
 
 <p align="center">
@@ -9,4 +9,8 @@
 
 <p align="center">
     Currently looking for full-time jobs in Software Development/Engineering. 
+</p>
+
+<p>
+    Check out my repos below.
 </p>
